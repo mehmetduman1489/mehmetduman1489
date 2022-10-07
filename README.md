@@ -1,25 +1,14 @@
 ### Herkese Merhabalar 👋 Ben Mehmet;
-Ben Yazılım Test Mühendisiyim. 
+
+Yazılım Test Mühendisiyim. 
+
 Java, HTML5 CSS,SQL, Selenium(WebDriver, JUnit, TestNG, Cucumber) dilleri ile projelerimde çalışıyorum.
+
 Slack, Discord uygulamaları ile takım iletişimini yürütüyorum.
+
 SDLC(Software Development Life Crycle) ve STLC(Software Test Life Crycle) süreçlerine ve Agile Proje Yönetimine hakimim.
 
 
-
-İşte Linkedin Hesabım:<div class="badge-base LI-profile-badge" data-locale="tr_TR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="mehmetduman1489" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://tr.linkedin.com/in/mehmetduman1489?trk=profile-badge">Mehmet Duman</a></div>
                             
 
-<!--
-**mehmetduman1489/mehmetduman1489** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
