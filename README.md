@@ -1,14 +1,16 @@
-### Herkese Merhabalar 👋 Ben Mehmet;
+☀️### Hi! I'm Mehmet:sunny:
 
-Yazılım Test Mühendisiyim. 
+- :sparkles: I’m Software Test Engineer 
+- :sparkles: I’m currently working Java, Selenium, Cucumber
+- :sparkles: Ask me about Java-Selenium-Cucumber-Lambda-Html5 CSS-Jdbc-PostgreSql
+- :sparkles: How to reach mehmetduman1489@gmail.com 
+- :sparkles: [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetduman1489)
+- :sparkles: Fun fact: I like to learn new language and i love running my test with Java-Selenium or Cucumber:running:
 
-Java, HTML5 CSS,SQL, Selenium(WebDriver, JUnit, TestNG, Cucumber) dilleri ile projelerimde çalışıyorum.
 
-Slack, Discord uygulamaları ile takım iletişimini yürütüyorum.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetduman1489&langs_count=8)](https://github.com/mehmetduman1489/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehmetduman1489)](https://github.com/mehmetduman1489/github-readme-stats)
+![snake gif](https://github.com/mehmetduman1489/mehmetduman1489/blob/output/github-contribution-grid-snake.svg)
 
-SDLC(Software Development Life Crycle) ve STLC(Software Test Life Crycle) süreçlerine ve Agile Proje Yönetimine hakimim.
-
-
-  
 
 
