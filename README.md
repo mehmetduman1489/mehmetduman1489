@@ -1,11 +1,13 @@
 ☀️### Hi! I'm Mehmet:sunny:
 
 - :sparkles: I’m Software Test Engineer 
-- :sparkles: I’m currently working Java, Selenium, Cucumber
-- :sparkles: Ask me about Java-Selenium-Cucumber-Lambda-Html5 CSS-Jdbc-PostgreSql
+- :sparkles: I run:running: my test with [![My Skills](https://skillicons.dev/icons?i=java,idea,selenium,gherkin,maven,git,github&theme=light)](https://skillicons.dev)
+- :sparkles:SKİLL---[![My Skills](https://skillicons.dev/icons?i=java,idea,selenium,gherkin,maven,postgres,vscode,html,css,git,github,discord,&theme=light)](https://skillicons.dev)
+- :sparkles: I’m currently working Java, Selenium, JUnit, TestNG, Cucumber
+- :sparkles: Ask me about Java, Selenium, Cucumber, JUnit, TestNG, Lambda, Html5 CSS, Jdbc, PostgreSql
 - :sparkles: How to reach mehmetduman1489@gmail.com 
 - :sparkles: [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetduman1489)
-- :sparkles: Fun fact: I like to learn new language and i love running my test with Java-Selenium or Cucumber:running:
+- :sparkles: Fun fact: I like to learn new language and tools.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetduman1489&langs_count=8)](https://github.com/mehmetduman1489/github-readme-stats)
