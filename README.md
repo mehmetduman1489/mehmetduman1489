@@ -6,7 +6,7 @@
 - :sparkles: I’m currently working Java, Selenium, JUnit, TestNG, Cucumber
 - :sparkles: Ask me about Java, Selenium, Cucumber, JUnit, TestNG, Lambda, Html5 CSS, Jdbc, PostgreSql
 - :sparkles: How to reach mehmetduman1489@gmail.com 
-- :sparkles: [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetduman1489)
+- :sparkles: My Linkedin --> [![linkedin:](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetduman1489)
 - :sparkles: Fun fact: I like to learn new language and tools.
 
 
